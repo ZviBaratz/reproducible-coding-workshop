@@ -14,4 +14,4 @@ __pycache__/
 .vs
 
 # Local solutions directory
-solutions
+solutions/ds*
